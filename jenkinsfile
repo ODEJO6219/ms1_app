@@ -7,7 +7,7 @@ pipeline {
         // Define Docker image name
         DOCKER_IMAGE_NAME = 'odaudu/ms1-app' // Update 'your-image-name' with your desired image name
         // Define the Bitbucket repository URL
-        GITHUB_REPO_URL = 'https://github.com/ugbasawo/nvit-game.git'
+        GITHUB_REPO_URL = 'https://github.com/ODEJO6219/ms1_app.git'
     }
 
     stages {
